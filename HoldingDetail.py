@@ -188,9 +188,9 @@ class HoldingDetail:
 #初始化日志设置
 GlobalSetting.logging_setting()
 
-dict={'众赢':'001234','金腾通':'000540','鑫盈':'000439','及第7天':'003002'}
+#dict={'众赢':'001234','金腾通':'000540','鑫盈':'000439','及第7天':'003002'}
 
-#dict={'及第7天':'003002'}
+dict={'及第7天':'003002'}
 for value in dict.values():
     Ho=HoldingDetail(value,'2018-08-21') #可选参数 fdate 格式 ’2018-07-17‘
     dd=Ho.GetHoldingDetail()

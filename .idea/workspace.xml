@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8328a826-df73-46d0-8384-2d61115f3098" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/RISK.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/000439.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/000540.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001234.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/003002.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataOP.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GlobalSetting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HoldingDetail.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HoldingRemainTimeDetail.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SqlList.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HoldingDetail.py" beforeDir="false" afterPath="$PROJECT_DIR$/HoldingDetail.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -31,8 +16,8 @@
       <file leaf-file-name="HoldingDetail.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/HoldingDetail.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="55">
-              <caret line="80" column="21" selection-start-line="80" selection-start-column="21" selection-end-line="80" selection-end-column="21" />
+            <state relative-caret-position="199">
+              <caret line="181" lean-forward="true" selection-start-line="181" selection-end-line="181" />
               <folding>
                 <element signature="e#0#14#0" expanded="true" />
               </folding>
@@ -92,6 +77,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="wangxu" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -211,11 +201,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1936" height="1096" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1578125" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1578125" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32928064" />
+      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32928064" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.42046607" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -233,6 +224,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2018-08-22" />
+    <option name="LAST_COMMIT_MESSAGE" value="2018-08-22" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -552,8 +547,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/HoldingDetail.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="55">
-          <caret line="80" column="21" selection-start-line="80" selection-start-column="21" selection-end-line="80" selection-end-column="21" />
+        <state relative-caret-position="199">
+          <caret line="181" lean-forward="true" selection-start-line="181" selection-end-line="181" />
           <folding>
             <element signature="e#0#14#0" expanded="true" />
           </folding>
